@@ -1,0 +1,10 @@
+.header{
+    background: white;
+    color: gray;
+}
+
+.formatting-options{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
